@@ -1,6 +1,6 @@
 # Universal Calendar Map
 
-A static, browser-only map app and reusable spatio-temporal engine. Geography and time are first-class dimensions, with Gregorian, Julian, Islamic, and Hebrew calendar display support. See [JSON format reference](docs/json-reference.md), [API reference](docs/api-reference.md), [changelog](docs/CHANGELOG.md), and [roadmap](docs/ROADMAP.md). JSON Schemas live under `docs/schemas/` for editor autocomplete; add the appropriate relative `$schema` path to a world or layer manifest.
+A static, browser-only map app and reusable spatio-temporal engine. Geography and time are first-class dimensions, with Gregorian, Julian, Islamic, and Hebrew calendar display support. See [JSON format reference](docs/json-reference.md), [API reference](docs/api-reference.md), [changelog](docs/CHANGELOG.md), and the AgenticHub central roadmap (AgenticHub/projects/working/ROADMAP.md). JSON Schemas live under `docs/schemas/` for editor autocomplete; add the appropriate relative `$schema` path to a world or layer manifest.
 
 ## Run locally
 
